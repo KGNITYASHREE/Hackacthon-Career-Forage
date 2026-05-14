@@ -76,3 +76,6 @@ src/
 - ✅ **Readiness Metric** — 0–100 score + 4 readiness levels
 - ✅ **Actionable Feedback** — High/Medium/Low priority action items with time estimates
 - ✅ **User-Friendly Interface** — glassmorphism UI, animations, mobile-friendly
+
+- ## Video Link
+- https://drive.google.com/file/d/1yxZ6wQlzDMOEmFix9jSXPvmo6a1Y7mI0/view?usp=drive_link
